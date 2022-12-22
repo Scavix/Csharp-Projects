@@ -31,4 +31,4 @@ For each route k:
 If the user decides to buy it, a file with timestamp is generated and saved in the disk.
 
 ## Diagram
-![Diagram](/assets/img/UML.jpg)
+![Diagram](/UML.jpg)
