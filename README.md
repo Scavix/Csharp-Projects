@@ -30,5 +30,15 @@ For each route k:
 *Filters are applied after finding the overall solutions (also clearing “dummy” routes)
 If the user decides to buy it, a file with timestamp is generated and saved in the disk.
 
-## Diagram
+## Classes Diagram
 ![Diagram](/UML.png)
+## Login Interface
+![Login](/login.png)
+## Admin Choices
+![Admin](/admin.png)
+## Routes Management
+![Routes](/routes.png)
+## User Management
+![User](/user.png)
+## Search Engine
+![Search](/search.png)
