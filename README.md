@@ -1,9 +1,6 @@
-# C#-Projects
+# C# Travel Tickets engine
 
 ## Content:
-Contains differents projects sorte by complexity. Here is documented the number 7. The more complex one
-
-## Description:
 The program is a Travel ticket search engines and User management system.
 
 ## Goal
