@@ -33,12 +33,12 @@ If the user decides to buy it, a file with timestamp is generated and saved in t
 ## Classes Diagram
 ![Diagram](/UML.png)
 ## Login Interface
-![Login](/login.png)
+![Login](/login.PNG)
 ## Admin Choices
-![Admin](/admin.png)
+![Admin](/admin.PNG)
 ## Routes Management
-![Routes](/routes.png)
+![Routes](/routes.PNG)
 ## User Management
-![User](/user.png)
+![User](/user.PNG)
 ## Search Engine
-![Search](/search.png)
+![Search](/search.PNG)
