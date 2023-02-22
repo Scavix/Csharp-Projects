@@ -39,6 +39,6 @@ If the user decides to buy it, a file with timestamp is generated and saved in t
 ## Routes Management
 ![Routes](/routes.PNG)
 ## User Management
-![User](/user.PNG)
+![User](/users.PNG)
 ## Search Engine
 ![Search](/search.PNG)
